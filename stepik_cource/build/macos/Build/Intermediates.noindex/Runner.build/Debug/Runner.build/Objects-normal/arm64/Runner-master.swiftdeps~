@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "f3b4f01f5030af0865bf9e0b157544a3dd761a9c33d8cb9cfba8ad5f42ae5ffe"
+build_start_time: [1700410787, 238558000]
+build_end_time: [1700410787, 273167000]
+inputs:
+  "/Users/tamer/Documents/Flutter/flutter_ros_2/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1700410771, 725852059]
+  "/Users/tamer/Documents/Flutter/flutter_ros_2/macos/Runner/AppDelegate.swift": !private [1696254060, 728329460]
+  "/Users/tamer/Documents/Flutter/flutter_ros_2/macos/Runner/MainFlutterWindow.swift": !private [1696254060, 729350371]
